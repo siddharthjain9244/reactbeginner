@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-A live demo of this project is available at https://text-utils-7vq.pages.dev/
+live demo of this project is available at https://text-utils-7vq.pages.dev/
 
 ## Available Scripts
 
